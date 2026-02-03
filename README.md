@@ -41,7 +41,7 @@
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveedAli141&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveedAli141&show_icons=true&theme=tokyonight&count_private=true" alt="Naveed's Stats"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveedAli141&layout=compact&theme=tokyonight" />
 </p>
 
