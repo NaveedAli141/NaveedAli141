@@ -1,53 +1,68 @@
 <div align="center">
 
-# 👋 I'm Naveed Nusrat
-### Senior Unity Developer | Game Architect | C# Expert
+# 🎮 Hi, I'm Naveed Nusrat 
+### Senior Unity Developer | Software Architect | C# Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveednusrat/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveednusrat4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveedAli141)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveednusrat/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/NaveedAli141)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:naveednusrat4@gmail.com)
 
 ---
 
-**3.7+ Years of Experience** *Transforming complex game design into high-performance mobile and desktop realities.*
+"Architecting immersive digital worlds with clean, scalable, and optimized code."
 
 </div>
 
-## 🛠️ Tech Stack & Expertise
-
-| Category | Tools & Skills |
-| :--- | :--- |
-| **Engine & Language** | **Unity 3D/2D** • **C#** • **C++** |
-| **Architecture** | **SOLID Principles** • **Design Patterns** • **OOP** • **Clean Code** |
-| **Mobile Systems** | **Firebase** • **Remote Config** • **Analytics** • **IAP** |
-| **Performance** | **Unity Profiler** • **Addressables** • **Memory Management** |
-| **Monetization** | **AdMob** • **IronSource** • **Unity Ads Mediation** |
+## 🚀 About Me
+- 👨‍💻 **3.7+ Years** of professional experience in Game Development.
+- 🛠️ Expert in **Unity 3D/2D**, specializing in mobile performance and architecture.
+- 📐 Deep advocate for **SOLID Principles** and **Design Patterns**.
+- 📈 Successfully integrated **AdMob, IronSource, and Firebase** in high-traffic titles.
 
 ---
 
-## 📈 GitHub Activity
+## 🛠️ Technical Arsenal
+
+### 🕹️ Game Engines & Languages
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ☁️ Backend & LiveOps
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### ⚡ Performance & Monetization
+`Unity Profiler` • `Addressables` • `Memory Management` • `GPU Instancing` • `IAP` • `Ads Mediation`
+
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveedAli141&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveedAli141&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveedAli141&theme=tokyonight" alt="Naveed's Streak" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+* **Modular Game Framework:** A custom Unity framework built on SOLID principles to reduce project setup time by 40%.
+* **Hyper-Casual Engine:** Optimized physics and rendering pipeline for 60 FPS on low-end mobile devices.
+* **Advanced AI Systems:** State-machine based AI for realistic NPC behavior in open-world environments.
+
+---
+
+## 📬 Contact Information
+- **Email:** [naveednusrat4@gmail.com](mailto:naveednusrat4@gmail.com)
+- **LinkedIn:** [linkedin.com/in/naveednusrat](https://www.linkedin.com/in/naveednusrat/)
+- **GitHub:** [github.com/NaveedAli141](https://github.com/NaveedAli141)
 
 <div align="center">
-
-| My Stats | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=NaveedAli141&show_icons=true&theme=dark&hide_border=true" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveedAli141&layout=compact&theme=dark&hide_border=true" width="400px" /> |
-
-### 🛠️ Working on...
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveedAli141&theme=dark&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🌟 Professional Highlights
-* 🏗️ **Architected** modular, reusable C# libraries to cut project setup time by 40%.
-* 🚀 **Spearheaded** full-cycle development for high-traffic mobile titles.
-* ⚡ **Optimized** games for 60 FPS performance on low-end mobile devices.
-* 🔗 **Integrated** sophisticated LiveOps and Monetization pipelines.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaveedAli141&label=PROFILE%20VIEWS&color=blue&style=flat-square" alt="Naveed's Views" />
+  <img src="https://komarev.com/ghpvc/?username=NaveedAli141&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
